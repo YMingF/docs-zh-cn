@@ -543,7 +543,7 @@ defineProps({
 ```js
 export default {
   props: {
-    author: Person
+    author: Person是
   }
 }
 ```
